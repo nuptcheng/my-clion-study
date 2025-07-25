@@ -21,10 +21,10 @@ add_executable(c_chapter_01
 #        video39/video39.cpp
 #        video40/video40.cpp
 #        video41/video41.cpp
-        video42/video42.cpp
+#        video42/video42.cpp
 #        video43/video43.cpp
 #        video44/video44.cpp
-#        video45/video45.cpp
+        video45/video45.cpp
 #        video46/video46.cpp
 #        video47/video47.cpp
 #        video48/video48.cpp

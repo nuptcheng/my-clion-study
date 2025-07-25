@@ -11,10 +11,18 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
+#include <math.h>
 #include <stdio.h>
 
 int main() {
-
-    return 0;
+  int side1, side2, side3;
+  printf("Please enter the lengths: ");
+  scanf("%d%d%d", &side1, &side2, &side3);
+  // pow()返回浮点数
+  if (pow(side1, 2) == pow(side2, 2) + pow(side3, 2) ||
+      pow(side2, 2) == pow(side2, 2) + pow(side1, 2) ||
+      pow(side3, 2) == pow(side1, 2) + pow(side2, 2)) {
+    printf("Rectangular triangle\n");
+  }
+  return 0;
 }

@@ -56,7 +56,7 @@ https://www.bilibili.com/video/BV1nL411z7uq?spm_id_from=333.788.player.switch&vd
 
 # video44-等腰三角形判断练习（if语句）
 
-# video45-直角三角形判断练习（if语句）
+# video45-直角三角形判断练习（if语句）(重点)
 
 # video46-三角形种类判断练习（if语句）
 

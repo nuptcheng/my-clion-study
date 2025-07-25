@@ -20,7 +20,13 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="my_clion_study" targetName="c_chapter_01" />
+      <config projectName="my_clion_study" targetName="c_dynamic_lib" />
+      <config projectName="my_clion_study" targetName="cpp_demo" />
+      <config projectName="my_clion_study" targetName="c_demo" />
+      <config projectName="my_clion_study" targetName="c_dynamic_exec" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -95,7 +101,20 @@
       <change afterPath="$PROJECT_DIR$/../../SocPredict/python2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow_ori2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-the-c-programming-anguage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/pics/pic-1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../my-wechat-miniprogram-study/antelope/pages/demo/myBehavior.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/video43.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/video43.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/video44.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/video44.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/video45.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/video45.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/package.json" beforeDir="false" />
@@ -118,7 +137,8 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:macpro-m1" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/main.c" root0="FORCE_HIGHLIGHTING" />
@@ -131,6 +151,12 @@
     <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/video23/video23.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/video24/video24.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/c-plus-study/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -151,37 +177,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;CMake Application.c_chapter_01.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.c_demo.executor&quot;: &quot;Debug&quot;,
-    &quot;CMake Application.c_dynamic_exec.executor&quot;: &quot;Debug&quot;,
-    &quot;CMake Application.cpp_demo.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.my_clion_study.executor&quot;: &quot;Run&quot;,
-    &quot;CMake 应用程序.my_clion_study.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/becomebamboo/source/my-study/my-clion-study&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/becomebamboo/source/my-study/my-clion-study/main.cpp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "CMake Application.c_chapter_01.executor": "Run",
+    "CMake Application.c_demo.executor": "Debug",
+    "CMake Application.c_dynamic_exec.executor": "Debug",
+    "CMake Application.cpp_demo.executor": "Run",
+    "CMake Application.my_clion_study.executor": "Run",
+    "CMake 应用程序.my_clion_study.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/becomebamboo/source/my-study/my-clion-study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/becomebamboo/source/my-study/my-clion-study/main.cpp",
+    "settings.editor.selected.configurable": "CMakePythonSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan" />
@@ -190,11 +216,11 @@
       <recent name="$PROJECT_DIR$/c-study" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video45/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video44/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video43/pics" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video42/pics" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video39/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video38/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video37/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video36/pics" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -202,7 +228,7 @@
       <command value="=" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.c_chapter_01">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -294,6 +320,38 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="c_chapter_01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_clion_study" TARGET_NAME="c_chapter_01" CONFIG_NAME="macpro-m1" RUN_TARGET_PROJECT_NAME="my_clion_study" RUN_TARGET_NAME="c_chapter_01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c_demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_clion_study" TARGET_NAME="c_demo" CONFIG_NAME="macpro-m1" RUN_TARGET_PROJECT_NAME="my_clion_study" RUN_TARGET_NAME="c_demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c_dynamic_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_clion_study" TARGET_NAME="c_dynamic_exec" CONFIG_NAME="macpro-m1" RUN_TARGET_PROJECT_NAME="my_clion_study" RUN_TARGET_NAME="c_dynamic_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c_dynamic_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_clion_study" TARGET_NAME="c_dynamic_lib" CONFIG_NAME="macpro-m1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp_demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_clion_study" TARGET_NAME="cpp_demo" CONFIG_NAME="macpro-m1" RUN_TARGET_PROJECT_NAME="my_clion_study" RUN_TARGET_NAME="cpp_demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.c_chapter_01" />
+      <item itemvalue="CMake Application.c_dynamic_exec" />
+      <item itemvalue="CMake Application.c_dynamic_lib" />
+      <item itemvalue="CMake Application.cpp_demo" />
+      <item itemvalue="CMake Application.c_demo" />
+    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -317,6 +375,7 @@
       <workItem from="1753090228553" duration="3432000" />
       <workItem from="1753106786081" duration="2000" />
       <workItem from="1753106834898" duration="39040000" />
+      <workItem from="1753455213752" duration="2561000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Ubuntu-x86_64-113 (a466cefb-81bb-44ac-9472-40d463cb60ff)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/my-clion-study" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -60,7 +60,7 @@ https://www.bilibili.com/video/BV1nL411z7uq?spm_id_from=333.788.player.switch&vd
 
 # video46-三角形种类判断练习（if语句）
 
-# video47-三角形种类判断的条件简化（if语句）
+# video47-三角形种类判断的条件简化（if语句）(重点)
 
 # video48-对两个变数求最大值（if语句）
 

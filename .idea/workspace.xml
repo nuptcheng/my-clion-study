@@ -101,20 +101,14 @@
       <change afterPath="$PROJECT_DIR$/../../SocPredict/python2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow_ori2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-the-c-programming-anguage/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/pics/pic-1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../my-wechat-miniprogram-study/antelope/pages/demo/myBehavior.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/video43.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/video43.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/video44.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/video44.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/video45.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/video45.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video46/video46.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video46/video46.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/video47.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/video47.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/package.json" beforeDir="false" />
@@ -216,11 +210,11 @@
       <recent name="$PROJECT_DIR$/c-study" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video47/pics" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video45/pics" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video44/pics" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video43/pics" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video42/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video39/pics" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -375,7 +369,7 @@
       <workItem from="1753090228553" duration="3432000" />
       <workItem from="1753106786081" duration="2000" />
       <workItem from="1753106834898" duration="39040000" />
-      <workItem from="1753455213752" duration="2561000" />
+      <workItem from="1753455213752" duration="6429000" />
     </task>
     <servers />
   </component>

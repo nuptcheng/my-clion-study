@@ -1,35 +1,65 @@
 # C子模块
 add_executable(c_chapter_01
-#        main.c
-#        video16/video16.cpp
-#        video17/video17.cpp
-#        video19/video19.cpp
-#        video20/video20.cpp
-#        video21/video21.cpp
-#        video22/video22.cpp
-#        video23/video23.cpp
-#        video24/video24.cpp
-#        video26/video26.cpp
-#        video28/video28.cpp
-#        video30/video30.cpp
-#        video33/video33.cpp
-#        video34/video34.cpp
-#        video35/video35.cpp
-#        video36/video36.cpp
-#        video37/video37.cpp
-#        video38/video38.cpp
-#        video39/video39.cpp
-#        video40/video40.cpp
-#        video41/video41.cpp
-#        video42/video42.cpp
-#        video43/video43.cpp
-#        video44/video44.cpp
-#        video45/video45.cpp
-#        video46/video46.cpp
-        video47/video47.cpp
-#        video48/video48.cpp
-#        video49/video49.cpp
-#        video50/video50.cpp
+        #        main.c
+        #        video16/video16.cpp
+        #        video17/video17.cpp
+        #        video19/video19.cpp
+        #        video20/video20.cpp
+        #        video21/video21.cpp
+        #        video22/video22.cpp
+        #        video23/video23.cpp
+        #        video24/video24.cpp
+        #        video26/video26.cpp
+        #        video28/video28.cpp
+        #        video30/video30.cpp
+        #        video33/video33.cpp
+        #        video34/video34.cpp
+        #        video35/video35.cpp
+        #        video36/video36.cpp
+        #        video37/video37.cpp
+        #        video38/video38.cpp
+        #        video39/video39.cpp
+        #        video40/video40.cpp
+        #        video41/video41.cpp
+        #        video42/video42.cpp
+        #        video43/video43.cpp
+        #        video44/video44.cpp
+        #        video45/video45.cpp
+        #        video46/video46.cpp
+        #        video47/video47.cpp
+        #        video48/video48.cpp
+        #        video49/video49.cpp
+        #        video50/video50.cpp
+#        video51/video51.cpp
+#                video52/video52.cpp
+#                video53/video53.cpp
+#                video54/video54.cpp
+#                video55/video55.cpp
+        #        video56/video56.cpp
+#                video57/video57.cpp
+#                video58/video58.cpp
+                video59/video59.cpp
+#                video60/video60.cpp
+        #        video61/video61.cpp
+        #        video62/video62.cpp
+        #        video63/video63.cpp
+        #        video64/video64.cpp
+        #        video65/video65.cpp
+        #        video66/video66.cpp
+        #        video67/video67.cpp
+        #        video68/video68.cpp
+        #        video69/video69.cpp
+        #        video70/video70.cpp
+        #        video71/video71.cpp
+        #        video72/video72.cpp
+        #        video73/video73.cpp
+        #        video74/video74.cpp
+        #        video75/video75.cpp
+        #        video76/video76.cpp
+        #        video77/video77.cpp
+        #        video78/video78.cpp
+        #        video79/video79.cpp
+        #        video80/video80.cpp
 )
 
 # 你可以添加 include 目录

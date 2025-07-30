@@ -1,8 +1,8 @@
 /************************************************************
- * @file: video48.cpp
+ * @file: video54.cpp
  * @version: 1.0.0
  *
- * @brief: 对两个变数求最大值（if语句）
+ * @brief: 对两个变数依照大小排序（使用if语句）
  *       [1]
  *       [2]
  *       [3]
@@ -15,16 +15,16 @@
 
 int main() {
   int a, b;
-  printf("Please enter the first integer: ");
-  scanf("%d", &a);
-  printf("Please enter the second integer: ");
-  scanf("%d", &b);
+  printf("Please enter two integers: ");
+  scanf("%d%d", &a, &b);
+  printf("Before: %d %d\n", a, b);
 
-  int max = a;
-  if (max < b) {
-    max = b;
+  // 要做一些处理
+  if (a > b) {
+    int temp = a;
+    a = b;
+    b = temp;
   }
-
-  printf("The maxinum is %d.\n", max);
+  printf("After: %d %d\n", a, b);
   return 0;
 }

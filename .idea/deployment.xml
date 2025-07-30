@@ -7,6 +7,11 @@
           <mappings>
             <mapping deploy="/tmp/my-clion-study" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-ubuntu-x86_64-113" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-macpro-m1" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote-x86_64" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>

@@ -11,10 +11,34 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int num1, num2;
+  char op;
+  double answer;
+  printf("Please enter formula: ");
+  scanf("%d%c%d", &num1, &op, &num2);
+  switch (op) {
+  case '+':
+    answer = (double)(num1 + num2);
+    break;
+  case '-':
+    answer = (double)(num1 - num2);
+    break;
+  case '*':
+    answer = (double)(num1 * num2);
+    break;
+  case '/':
+    answer = (double)num1 / num2;
+    break;
+  }
 
-    return 0;
+  if (op == '/') {
+    printf("The answer is %.2f\n", answer);
+  } else {
+    printf("The answer is %d\n", (int)(answer));
+  }
+
+  return 0;
 }

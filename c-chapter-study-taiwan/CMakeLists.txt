@@ -38,13 +38,13 @@ add_executable(c_chapter_01
         #        video56/video56.cpp
 #                video57/video57.cpp
 #                video58/video58.cpp
-                video59/video59.cpp
+#                video59/video59.cpp
 #                video60/video60.cpp
-        #        video61/video61.cpp
-        #        video62/video62.cpp
-        #        video63/video63.cpp
-        #        video64/video64.cpp
-        #        video65/video65.cpp
+#                video61/video61.cpp
+#                video62/video62.cpp
+#                video63/video63.cpp
+#                video64/video64.cpp
+                video65/video65.cpp
         #        video66/video66.cpp
         #        video67/video67.cpp
         #        video68/video68.cpp

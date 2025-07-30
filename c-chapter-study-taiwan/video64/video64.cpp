@@ -11,10 +11,19 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int a, b, c;
+  printf("Please enter three integers: ");
+  scanf("%d%d%d", &a, &b, &c);
+  if (a >= b && a >= c) {
+    printf("The maximum is %d\n", a);
+  } else if (b >= a && b >= c) {
+    printf("The maximum is %d\n", b);
+  } else {
+    printf("The maximum is %d\n", c);
+  }
 
-    return 0;
+  return 0;
 }

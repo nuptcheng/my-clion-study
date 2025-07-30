@@ -11,10 +11,19 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int a, b;
+  printf("Please enter two integers: ");
+  scanf("%d%d", &a, &b);
+  if (a > b) {
+    printf("a > b\n");
+  } else if (a < b) {
+    printf("a < b\n");
+  } else {
+    printf("a = b\n");
+  }
 
-    return 0;
+  return 0;
 }

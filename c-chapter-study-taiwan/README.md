@@ -92,11 +92,11 @@ https://www.bilibili.com/video/BV1nL411z7uq?spm_id_from=333.788.player.switch&vd
 
 # video62-猜数字练习（if-else语句）
 
-# video63-简单四则运算练习（if-else语句）
+# video63-简单四则运算练习（if-else语句）(重点)
 
 # video64-对多个变数求最大值（if-else语句）
 
-# video65-多选一的路口（switch语句）
+# video65-多选一的路口（switch语句）（重点）
 
 # video66-ID查询练习（switch语句）
 

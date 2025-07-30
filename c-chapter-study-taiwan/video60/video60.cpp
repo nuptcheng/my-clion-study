@@ -11,10 +11,16 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
-
-    return 0;
+  int grade;
+  printf("Please enter the grade: ");
+  scanf("%d", &grade);
+  if (grade >= 60) {
+    printf("PASS");
+  } else {
+    printf("FAIL");
+  }
+  return 0;
 }

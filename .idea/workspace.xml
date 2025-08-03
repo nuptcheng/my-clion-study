@@ -8,6 +8,7 @@
     <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="5" type="long" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="Cpp.Editor" type="string" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
@@ -102,18 +103,209 @@
       <change afterPath="$PROJECT_DIR$/../../SocPredict/python2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow_ori2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-03/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video66/video66.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/02/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/07/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/08/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/08/pics/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/09/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/05/video05.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/06/video06.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/07/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/07/video07.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/01/video01.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/03/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/03/video03.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/04/video04.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/05/video05.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/06/video06.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/07/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/07/video07.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/09/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/09/video09.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/10/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/10/video10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../my-wechat-miniprogram-study/antelope/pages/demo/myBehavior.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video60/video60.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video60/video60.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video61/video61.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video61/video61.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video62/video62.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video62/video62.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video63/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video63/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video63/video63.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video63/video63.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video64/video64.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video64/video64.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video65/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video65/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video65/video65.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/video65/video65.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video101/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/08/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video101/video28.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/08/video08.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video16/video16-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-03/video16/video16-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video16/video16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-03/video16/video16.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video17/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-03/video17/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video17/video17.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-03/video17/video17.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video19/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-03/video19/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video19/video19.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-03/video19/video19.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video20/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video20/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video20/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video20/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video20/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video20/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video20/pics/pic-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video20/pics/pic-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video20/video20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video20/video20.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video21/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video21/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video21/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video21/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video21/video21.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video21/video21.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video22/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video22/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video22/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video22/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video22/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video22/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video22/pics/pic-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video22/pics/pic-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video22/video22.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video22/video22.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/pics/pic-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/pics/pic-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/pics/pic-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/pics/pic-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/pics/pic-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/pics/pic-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/pics/pic-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/pics/pic-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video23/video23.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video23/video23.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video24/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video24/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video24/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video24/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video24/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video24/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video24/pics/pic-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video24/pics/pic-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video24/video24.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video24/video24.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video26/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video26/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video26/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video26/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video26/video26.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video26/video26.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video28/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video28/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video28/video28.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video28/video28.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video30/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video30/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video30/video30.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video30/video30.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video31/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video31/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video31/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video31/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video31/video31.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-04/video31/video31.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video33/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video33/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video33/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video33/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video33/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video33/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video33/video33.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video33/video33.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video34/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video34/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video34/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video34/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video34/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video34/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video34/video34.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video34/video34.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video35/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video35/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video35/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video35/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video35/video35.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video35/video35.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video36/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video36/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video36/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video36/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video36/video36.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video36/video36.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video37/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video37/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video37/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video37/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video37/video37.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video37/video37.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video38/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video38/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video38/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video38/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video38/video38.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-05/video38/video38.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video39/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video39/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video39/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video39/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video39/video39.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video39/video39.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video40/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video40/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video40/video40.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video40/video40.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video41/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video41/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video41/video41.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video41/video41.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video42/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video42/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video42/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video42/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video42/video42.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video42/video42.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video43/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video43/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video43/video43.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video43/video43.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video44/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video44/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video44/video44.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video44/video44.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video45/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video45/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video45/video45.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video45/video45.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video46/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video46/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video46/video46.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video46/video46.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video47/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video47/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video47/video47.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-06/video47/video47.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video48/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video48/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video48/video48.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video48/video48.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video49/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video49/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video49/video49.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video49/video49.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video50/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video50/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video50/video50.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video50/video50.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video51/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video51/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video51/video51.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video51/video51.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video52/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video52/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video52/video52.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video52/video52.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video53/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video53/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video53/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video53/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video53/video53.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video53/video53.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video54/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video54/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video54/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video54/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video54/video54.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video54/video54.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video55/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video55/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video55/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video55/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video55/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video55/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video55/video55.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video55/video55.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video56/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video56/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video56/video56.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video56/video56.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video57/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video57/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video57/pics/pic-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video57/pics/pic-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video57/pics/pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video57/pics/pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video57/video57.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video57/video57.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video58/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video58/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video58/video58.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video58/video58.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video59/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video59/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video59/video59.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-07/video59/video59.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video60/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video60/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video60/video60.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video60/video60.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video61/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video61/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video61/video61.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video61/video61.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video62/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video62/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video62/video62.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video62/video62.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video63/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video63/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video63/video63.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video63/video63.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video64/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video64/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video64/video64.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video64/video64.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video65/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video65/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video65/video65.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video65/video65.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video66/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video66/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video66/video66.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100/02/video02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video67/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video67/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video67/video67.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08/video67/video67.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video68/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video68/video68.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/01/video01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video69/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video69/video69.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/02/video02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video70/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video70/video70.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/03/video03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video71/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video71/video71.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/04/video04.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video72/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/05/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video72/video72.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/05/video05.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video73/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/06/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video73/video73.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/06/video06.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video74/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/07/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video74/video74.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/07/video07.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video75/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/08/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video75/video75.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/08/video08.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video76/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/09/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video76/video76.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/09/video09.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video77/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video77/video77.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/01/video01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video78/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video78/video78.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/02/video02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video79/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video79/video79.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/03/video03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video80/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/video80/video80.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10/04/video04.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/package.json" beforeDir="false" />
@@ -196,7 +388,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan",
+    "last_opened_file_path": "/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan/chapter-100",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -209,17 +401,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan" />
-      <recent name="$PROJECT_DIR$/c-chapter-01" />
-      <recent name="$PROJECT_DIR$/c-dynamic-compile" />
-      <recent name="$PROJECT_DIR$/c-study" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-10" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/08/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-08" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video57/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video55/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video54/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video53/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/video47/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/09/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/08/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/08" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/07/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-09/02/pics" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -374,7 +567,7 @@
       <workItem from="1753090228553" duration="3432000" />
       <workItem from="1753106786081" duration="2000" />
       <workItem from="1753106834898" duration="39040000" />
-      <workItem from="1753455213752" duration="36636000" />
+      <workItem from="1753455213752" duration="59745000" />
     </task>
     <servers />
   </component>

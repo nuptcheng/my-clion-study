@@ -11,10 +11,28 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  // 示例1：打印出1到10之间的偶数
+  // int count;
+  // for (count = 1; count <= 10; count++) {
+  //   if (count % 2 == 0) {
+  //     printf("%d\n", count);
+  //   }
+  // }
 
-    return 0;
+  // 示例2：打印出1到10之间不是3的倍数的偶数
+  int count;
+  for (count = 1; count <= 10; count++) {
+    if (count % 2 == 0 && count % 3 != 0) {
+      printf("%d\n", count);
+    }
+  }
+
+
+
+
+
+  return 0;
 }

@@ -11,10 +11,17 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
-
-    return 0;
+  int sum = 0;
+  int N;
+  printf("please enter the number: ");
+  scanf("%d", &N);
+  for (int count = 0; count <= N; count++) {
+    printf("%d\n", count);
+    sum += count;
+  }
+  printf("The sum is %d\n", sum);
+  return 0;
 }

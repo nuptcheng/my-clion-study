@@ -11,10 +11,32 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
 
-    return 0;
+  // 从10打印到1
+  // int count;
+  // for (count = 1; count <= 10; count++) {
+  //   int number = 11 - count;
+  //   printf("%d\n", number);
+  // }
+
+  // 打印出1到10之间的奇数：方法1
+  // int count;
+  // for (count = 1; count <= 5; count++) {
+  //   int number = 2 * count - 1;
+  //   printf("%d\n", number);
+  // }
+
+  // 打印出1到10之间的奇数：方法2
+  int count;
+  for (count = 1; count <= 10; count++) {
+    // 判断count是奇数
+    if (count % 2 == 1) {
+      printf("%d\n", count);
+    }
+  }
+
+  return 0;
 }

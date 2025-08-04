@@ -11,10 +11,17 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
-
-    return 0;
+  // 示例1：从1加到100
+  int sum = 0;
+  int N;
+  printf("N = : ");
+  scanf("%d", &N);
+  for (int i = 0; i <= N; ++i) {
+    sum += i;
+  }
+  printf("sum = %d\n", sum);
+  return 0;
 }

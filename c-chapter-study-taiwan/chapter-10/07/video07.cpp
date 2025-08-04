@@ -12,10 +12,23 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int max;
+  printf("Enter max number: ");
+  scanf("%d", &max);
 
-    return 0;
+  int number;
+  for (number = max; number >= 1; --number) {
+    // 韩信点兵问题
+    if (number % 3 == 2 && number % 5 == 3 && number % 7 == 2) {
+      // 找到了
+      printf("number = %d\n", number);
+      // 结束for循环和while循环
+      break;
+    }
+  }
+
+  return 0;
 }

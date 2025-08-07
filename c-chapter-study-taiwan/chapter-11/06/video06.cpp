@@ -11,10 +11,19 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int number;
+  printf("Please enter a number: ");
+  scanf("%d", &number);
+  for (int i = 2; i < number; ++i) {
+    if (number % i == 0) {
+      // printf("%d\n", i);
+      printf("No, not prime\n");
+    }
+  }
+  printf("Yes, is prime\n");
 
-    return 0;
+  return 0;
 }

@@ -11,10 +11,17 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int i, j;
+  for (i = 1; i <= 30 / 2; ++i) {
+    int number_1 = i;
+    int number_2 = 30 - i;
+    if (number_1 * number_2 == 221) {
+      printf("%d, %d\n", number_1, number_2);
+    }
+  }
 
-    return 0;
+  return 0;
 }

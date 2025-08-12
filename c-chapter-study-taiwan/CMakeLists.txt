@@ -73,12 +73,22 @@ add_executable(c_chapter_01
         #                                chapter-11/05/video05.cpp
         #                                chapter-11/06/video06.cpp
         #        第12章
-                                        chapter-12/01/video01.cpp
-        #                                chapter-12/02/video02.cpp
-        #                                chapter-12/03/video03.cpp
-        #                                chapter-12/04/video04.cpp
-        #                                chapter-12/05/video05.cpp
-        #                                chapter-12/06/video06.cpp
+        #                                        chapter-12/01/video01.cpp
+        #                                        chapter-12/02/video02.cpp
+        #                                        chapter-12/03/video03.cpp
+        #                                        chapter-12/04/video04.cpp
+        #                                        chapter-12/05/video05.cpp
+        #                                        chapter-12/06/video06.cpp
+        #        第13章
+        #                                        chapter-13/01/video01.cpp
+        #                                        chapter-13/02/video02.cpp
+        #                                        chapter-13/03/video03.cpp
+        #                                        chapter-13/04/video04.cpp
+        #                                        chapter-13/05/video05.cpp
+        #                                        chapter-13/06/video06.cpp
+        #                                        chapter-13/07/video07.cpp
+        #                                        chapter-13/08/video08.cpp
+        #                                        chapter-13/09/video09.cpp
 )
 
 # 你可以添加 include 目录

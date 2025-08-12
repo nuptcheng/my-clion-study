@@ -11,10 +11,24 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int N;
+  printf("N = ");
+  scanf("%d", &N);
 
-    return 0;
+  int i, j;
+  for (i = 1; i <= N; ++i) {
+    for (j = 1; j <= N; ++j) {
+      // 第1行和最后1行全是*
+      if (j == 1 || i == N || i == j) {
+        printf("*");
+      } else {
+        printf(" ");
+      }
+    }
+    printf("\n");
+  }
+  return 0;
 }

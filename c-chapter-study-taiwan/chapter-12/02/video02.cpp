@@ -11,10 +11,19 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int N;
+  printf("N = ");
+  scanf("%d", &N);
 
-    return 0;
+  for (int k = 1; k <= N; k++) {
+    for (int l = 1; l <= N; l++) {
+      printf("*");
+    }
+    printf("\n");
+  }
+
+  return 0;
 }

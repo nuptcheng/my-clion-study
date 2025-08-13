@@ -2,7 +2,7 @@
  * @file: video01.cpp
  * @version: 1.0.0
  *
- * @brief: # 14 - 01 ｜ 函式遞迴
+ * @brief: 15 - 01 ｜ 陣列簡介
  *       [1]
  *       [2]
  *       [3]
@@ -11,19 +11,10 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
+
 #include <stdio.h>
 
-int fn(int);
-
 int main() {
-  printf("%d\n", fn(0));
-  return 0;
-}
 
-int fn(int i = 0) {
-  // 这是递归中断条件
-  if (i == 2) {
-    return i;
-  }
-  return fn(i + 1);
+    return 0;
 }

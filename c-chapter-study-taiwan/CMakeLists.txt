@@ -90,10 +90,18 @@ add_executable(c_chapter_01
         #                                                chapter-13/08/video08.cpp
         #                                                chapter-13/09/video09.cpp
         #        第14章
-                                                        chapter-14/01/video01.cpp
-        #                                                chapter-14/02/video02.cpp
-        #                                                chapter-14/03/video03.cpp
-        #                                                chapter-14/04/video04.cpp
+        #                                                        chapter-14/01/video01.cpp
+        #                                                        chapter-14/02/video02.cpp
+        #                                                        chapter-14/03/video03.cpp
+        #                                                        chapter-14/04/video04.cpp
+        #        第15章
+        chapter-15/01/video01.cpp
+        #                                                        chapter-15/02/video02.cpp
+        #                                                        chapter-15/03/video03.cpp
+        #                                                        chapter-15/04/video04.cpp
+        #                                                        chapter-15/05/video05.cpp
+        #                                                        chapter-15/06/video06.cpp
+        #                                                        chapter-15/07/video07.cpp
 )
 
 # 你可以添加 include 目录

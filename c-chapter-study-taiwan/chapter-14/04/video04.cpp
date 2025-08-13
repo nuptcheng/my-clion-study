@@ -11,10 +11,20 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
+int fn(int);
 
 int main() {
+  int N;
+  printf("Please enter a ladder number: ");
+  scanf("%d", &N);
+  printf("The number of ladder methods is: %d\n", fn(N));
+  return 0;
+}
 
-    return 0;
+int fn(int n) {
+  if (n <= 2) {
+    return n;
+  }
+  return fn(n - 1) + fn(n - 2);
 }

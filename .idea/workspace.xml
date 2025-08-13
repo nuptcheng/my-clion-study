@@ -103,33 +103,40 @@
       <change afterPath="$PROJECT_DIR$/../../SocPredict/python2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow_ori2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/02/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/05/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/09/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/pics/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/pics/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/pics/pic-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/01/video01.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/02/video02.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/03/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/03/video03.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/04/video04.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/05/video05.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/06/video06.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/07/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/07/video07.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../my-wechat-miniprogram-study/antelope/pages/demo/myBehavior.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/01/video01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/01/video01.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/02/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/02/video02.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/02/video02.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/03/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/05/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/05/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/05/video05.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/05/video05.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/06/video06.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/06/video06.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/08/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/08/video08.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/08/video08.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/09/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/09/video09.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/09/video09.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/video01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/video01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/video02.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/video02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/video03.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/video03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/video04.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/video04.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/package.json" beforeDir="false" />
@@ -158,6 +165,44 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/main.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/c-plus-study/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -198,7 +243,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan/chapter-14",
+    "last_opened_file_path": "/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan/chapter-15",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -211,18 +256,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-15" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-12" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-11" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-100" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/04/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/03/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/02/pics" />
+      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/pics" />
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/09/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/05/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-13/02/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-12/04/pics" />
-      <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-12/03/pics" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -378,7 +423,7 @@
       <workItem from="1753106786081" duration="2000" />
       <workItem from="1753106834898" duration="39040000" />
       <workItem from="1753455213752" duration="62477000" />
-      <workItem from="1754283401189" duration="55414000" />
+      <workItem from="1754283401189" duration="63252000" />
     </task>
     <servers />
   </component>

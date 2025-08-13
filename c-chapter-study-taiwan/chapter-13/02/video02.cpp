@@ -11,10 +11,15 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
+double div(double);
 
 int main() {
-
-    return 0;
+  int N;
+  printf("Enter a number: ");
+  scanf("%d", &N);
+  printf("%f\n", div(N * 2));
+  return 0;
 }
+
+double div(double x) { return x / 2; }

@@ -1,9 +1,8 @@
 /************************************************************
- * @file: video08.cpp
+ * @file: video01.cpp
  * @version: 1.0.0
  *
- * @brief: 13 - 08 ｜ 亂數生成 (使用函式)
-
+ * @brief: # 14 - 01 ｜ 函式遞迴
  *       [1]
  *       [2]
  *       [3]
@@ -12,16 +11,10 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
+
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 int main() {
-  // srand(2);
-  srand(time(0));
-  int i;
-  for (i = 0; i < 5; ++i) {
-    printf("number = %d\n", rand());
-  }
-  return 0;
+
+    return 0;
 }

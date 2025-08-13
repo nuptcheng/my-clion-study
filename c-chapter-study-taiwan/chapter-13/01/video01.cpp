@@ -11,10 +11,13 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
+// 函数声明
+int f(int);
 
 int main() {
-
-    return 0;
+  printf("%d\n", f(3));
+  return 0;
 }
+
+int f(int x) { return x + 3; }

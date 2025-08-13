@@ -80,15 +80,20 @@ add_executable(c_chapter_01
         #                                        chapter-12/05/video05.cpp
         #                                        chapter-12/06/video06.cpp
         #        第13章
-        #                                        chapter-13/01/video01.cpp
-        #                                        chapter-13/02/video02.cpp
-        #                                        chapter-13/03/video03.cpp
-        #                                        chapter-13/04/video04.cpp
-        #                                        chapter-13/05/video05.cpp
-        #                                        chapter-13/06/video06.cpp
-        #                                        chapter-13/07/video07.cpp
-        #                                        chapter-13/08/video08.cpp
-        #                                        chapter-13/09/video09.cpp
+        #                                                chapter-13/01/video01.cpp
+        #                                                chapter-13/02/video02.cpp
+        #                                                chapter-13/03/video03.cpp
+        #                                                chapter-13/04/video04.cpp
+        #                                                chapter-13/05/video05.cpp
+        #                                                chapter-13/06/video06.cpp
+        #                                                chapter-13/07/video07.cpp
+        #                                                chapter-13/08/video08.cpp
+        #                                                chapter-13/09/video09.cpp
+        #        第14章
+                                                        chapter-14/01/video01.cpp
+        #                                                chapter-14/02/video02.cpp
+        #                                                chapter-14/03/video03.cpp
+        #                                                chapter-14/04/video04.cpp
 )
 
 # 你可以添加 include 目录

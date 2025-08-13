@@ -12,10 +12,20 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 int main() {
+  // 设置乱数种子
+  srand(time(NULL));
+  int i;
 
-    return 0;
+  // 生成1到6之间随机数
+  for (i = 1; i <= 5; ++i) {
+    int dice = rand() % 6 + 1;
+    printf("%d\n", dice);
+  }
+
+  return 0;
 }

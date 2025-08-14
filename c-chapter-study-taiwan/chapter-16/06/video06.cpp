@@ -1,8 +1,8 @@
 /************************************************************
- * @file: video01.cpp
+ * @file: video06.cpp
  * @version: 1.0.0
  *
- * @brief: 15 - 01 ｜ 陣列簡介
+ * @brief: 16 - 06 ｜ 求小範圍內眾數的練習 (使用陣列)
  *       [1]
  *       [2]
  *       [3]
@@ -15,11 +15,6 @@
 #include <stdio.h>
 
 int main() {
-    int array[3];
-    array[0] = 3;
-    array[1] = 5;
-    array[2] = 0;
-
 
     return 0;
 }

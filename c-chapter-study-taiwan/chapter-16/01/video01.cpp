@@ -11,10 +11,25 @@
  * @lastEditTime: 2025/7/22 10:37
  ************************************************************/
 
-
 #include <stdio.h>
 
 int main() {
+  int i, n[5];
+  for (i = 1; i <= 5; ++i) {
+    printf("%d: ", i);
+    scanf("%d", &n[i - 1]);
+  }
 
-    return 0;
+  // 循环输入
+  while (1) {
+    printf("Q: ");
+    scanf("%d", &i);
+    // 中断点
+    if (i == 0) {
+      break;
+    }
+    printf("%d\n", n[i - 1]);
+  }
+
+  return 0;
 }

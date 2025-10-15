@@ -103,199 +103,23 @@
       <change afterPath="$PROJECT_DIR$/../../SocPredict/python2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow_ori2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/02/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-17/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-18/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/07/video07.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/08/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/08/video08.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/09/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/09/video09.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-19/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/07/video07.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/08/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/08/video08.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-20/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-21/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-22/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-22/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-22/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-22/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-22/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/07/video07.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-25/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-26/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-27/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-27/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-27/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/07/video07.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/08/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/08/video08.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/09/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/09/video09.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/10/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/10/video10.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-28/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-29/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/07/video07.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/08/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/08/video08.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-30/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/01/video01.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/02/video02.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/03/video03.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/04/video04.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/05/video05.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/06/video06.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/pics/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/pics/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/pics/pic-1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../my-wechat-miniprogram-study/antelope/pages/demo/myBehavior.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/01/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/01/video01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/01/video01.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/02/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/02/video02.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/02/video02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/video03.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/video03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/04/video04.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/04/video04.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/video05.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/video05.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/video06.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/video06.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/video07.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/video07.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/README.md" beforeDir="false" />
@@ -323,38 +147,14 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-14/01/video01.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/01/video01.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/02/video02.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/video03.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/04/video04.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/video05.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/c-chapter-study-taiwan/main.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/c-plus-study/main.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -383,37 +183,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "CMake Application.c_chapter_01.executor": "Run",
-    "CMake Application.c_demo.executor": "Debug",
-    "CMake Application.c_dynamic_exec.executor": "Debug",
-    "CMake Application.cpp_demo.executor": "Run",
-    "CMake Application.my_clion_study.executor": "Run",
-    "CMake 应用程序.my_clion_study.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.advertisement.text.overridden": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan/chapter-31",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/becomebamboo/source/my-study/my-clion-study/main.cpp",
-    "settings.editor.selected.configurable": "Cpp.EditorId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;CMake Application.c_chapter_01.executor&quot;: &quot;Debug&quot;,
+    &quot;CMake Application.c_demo.executor&quot;: &quot;Debug&quot;,
+    &quot;CMake Application.c_dynamic_exec.executor&quot;: &quot;Debug&quot;,
+    &quot;CMake Application.cpp_demo.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.my_clion_study.executor&quot;: &quot;Run&quot;,
+    &quot;CMake 应用程序.my_clion_study.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan/chapter-31&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/becomebamboo/source/my-study/my-clion-study/main.cpp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Cpp.EditorId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31" />
@@ -522,9 +322,9 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="c_chapter_01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_clion_study" TARGET_NAME="c_chapter_01" CONFIG_NAME="macpro-m1" RUN_TARGET_PROJECT_NAME="my_clion_study" RUN_TARGET_NAME="c_chapter_01">
@@ -554,10 +354,10 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.c_chapter_01" />
+      <item itemvalue="CMake Application.c_demo" />
       <item itemvalue="CMake Application.c_dynamic_exec" />
       <item itemvalue="CMake Application.c_dynamic_lib" />
       <item itemvalue="CMake Application.cpp_demo" />
-      <item itemvalue="CMake Application.c_demo" />
     </list>
   </component>
   <component name="TaskManager">
@@ -585,6 +385,12 @@
       <workItem from="1753455213752" duration="62477000" />
       <workItem from="1754283401189" duration="68011000" />
       <workItem from="1755140000513" duration="26351000" />
+      <workItem from="1757293785251" duration="1000" />
+      <workItem from="1758540618827" duration="305000" />
+      <workItem from="1758606311555" duration="20000" />
+      <workItem from="1760072540771" duration="8688000" />
+      <workItem from="1760441400083" duration="20000" />
+      <workItem from="1760523817449" duration="4082000" />
     </task>
     <servers />
   </component>
@@ -619,8 +425,29 @@
           <line>48</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/video03.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/video06.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="max_i" />
+        <watch expression="max_i != -1 || n[i] &gt; n[max_i]" language="C++" />
+        <watch expression="max_i != -1" language="C++" />
+        <watch expression="n[i] &gt; n[max_i]" language="C++" />
+        <watch expression="n[max_i]" language="C++" />
+        <watch expression="n[0]" language="C++" />
+        <watch expression="n[-1]" language="C++" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

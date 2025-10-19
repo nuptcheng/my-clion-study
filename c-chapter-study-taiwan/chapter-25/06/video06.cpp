@@ -2,7 +2,7 @@
  * @file: video06.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 25 - 06 ｜ 指標與陣列的關係
  *       [1]
  *       [2]
  *       [3]

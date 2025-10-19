@@ -2,7 +2,7 @@
  * @file: video05.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 26 - 05 ｜ 指標與 const
  *       [1]
  *       [2]
  *       [3]

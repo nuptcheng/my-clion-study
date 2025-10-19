@@ -116,11 +116,29 @@ add_executable(c_chapter_01
         #        chapter-23/02/video02.cpp
         #        chapter-23/03/video03.cpp
         #        chapter-23/04/video04.cpp
+
         #        第24章
         #                chapter-24/01/video01.cpp
         #                chapter-24/02/video02.cpp
         #        chapter-24/03/video03.cpp
-        chapter-24/04/video04.cpp
+        #        chapter-24/04/video04.cpp
+
+        #        第25章
+        #        chapter-25/01/video01.cpp
+        #                chapter-25/02/video02.cpp
+        #                chapter-25/03/video03.cpp
+        #        chapter-25/04/video04.cpp
+        #                chapter-25/05/video05.cpp
+        #        chapter-25/06/video06.cpp
+        #                chapter-25/07/video07.cpp
+        #
+        #        第26章
+        #        chapter-26/01/video01.cpp
+        #        chapter-26/02/video02.cpp
+        #        chapter-26/03/video03.cpp
+        #        chapter-26/04/video04.cpp
+        #        chapter-26/05/video05.cpp
+        #        chapter-26/06/video06.cpp
 
 )
 

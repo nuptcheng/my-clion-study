@@ -2,7 +2,7 @@
  * @file: video04.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 26 - 04 ｜ 字串字面常數與 const char *
  *       [1]
  *       [2]
  *       [3]

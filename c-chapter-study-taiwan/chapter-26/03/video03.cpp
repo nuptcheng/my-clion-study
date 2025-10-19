@@ -2,7 +2,7 @@
  * @file: video03.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 26 - 03 ｜ const 修飾字
  *       [1]
  *       [2]
  *       [3]

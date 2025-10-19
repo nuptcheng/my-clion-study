@@ -2,7 +2,7 @@
  * @file: video06.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 26 - 06 ｜ 使用函式複製字串
  *       [1]
  *       [2]
  *       [3]

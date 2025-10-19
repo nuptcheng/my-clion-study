@@ -2,7 +2,7 @@
  * @file: video04.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 25 - 04 ｜ 指標與下標運算子
  *       [1]
  *       [2]
  *       [3]

@@ -2,7 +2,7 @@
  * @file: video02.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 26 - 02 ｜ 字串字面常數的特殊性
  *       [1]
  *       [2]
  *       [3]

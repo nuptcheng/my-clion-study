@@ -2,7 +2,7 @@
  * @file: video02.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 23 - 02 ｜ 指標變數宣告與取址運算
  *       [1]
  *       [2]
  *       [3]

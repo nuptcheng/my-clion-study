@@ -2,7 +2,7 @@
  * @file: video01.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 23 - 01 ｜ 沒有指標的世界
  *       [1]
  *       [2]
  *       [3]

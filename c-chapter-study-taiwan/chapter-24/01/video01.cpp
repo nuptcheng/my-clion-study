@@ -2,7 +2,7 @@
  * @file: video01.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 24 - 01 ｜ 指標與函式呼叫
  *       [1]
  *       [2]
  *       [3]

@@ -2,7 +2,7 @@
  * @file: video04.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 24 - 04 ｜ 該傳變數值還是址
  *       [1]
  *       [2]
  *       [3]

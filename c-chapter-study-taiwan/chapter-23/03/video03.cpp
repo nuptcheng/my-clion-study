@@ -2,7 +2,7 @@
  * @file: video03.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 23 - 03 ｜ 指標間接運算
  *       [1]
  *       [2]
  *       [3]

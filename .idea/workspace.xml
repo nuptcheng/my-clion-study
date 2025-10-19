@@ -103,24 +103,40 @@
       <change afterPath="$PROJECT_DIR$/../../SocPredict/python2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../SocPredict/tersorflow_ori2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/pics/pic-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/pics/pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/pics/pic-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/pics/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/pics/pic-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/pics/pic-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/pics/pic-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/pics/pic-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/pics/pic-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/pics/pic-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/pics/pic-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/pics/pic-2.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../my-wechat-miniprogram-study/antelope/pages/demo/myBehavior.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/video03.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/03/video03.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/04/video04.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/04/video04.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/video05.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/05/video05.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/video06.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/06/video06.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/video07.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/07/video07.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-16/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/01/video01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/01/video01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/video02.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/02/video02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/video03.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/03/video03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/video04.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/04/video04.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-23/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/01/video01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/01/video01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/02/video02.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/02/video02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/03/video03.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/03/video03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/04/video04.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/04/video04.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-24/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../myReactLearning/react_multipage/package.json" beforeDir="false" />
@@ -140,6 +156,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:macpro-m1" />
   <component name="Git.Settings">
@@ -183,37 +202,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;CMake Application.c_chapter_01.executor&quot;: &quot;Debug&quot;,
-    &quot;CMake Application.c_demo.executor&quot;: &quot;Debug&quot;,
-    &quot;CMake Application.c_dynamic_exec.executor&quot;: &quot;Debug&quot;,
-    &quot;CMake Application.cpp_demo.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.my_clion_study.executor&quot;: &quot;Run&quot;,
-    &quot;CMake 应用程序.my_clion_study.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan/chapter-31&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/becomebamboo/source/my-study/my-clion-study/main.cpp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Cpp.EditorId&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "CMake Application.c_chapter_01.executor": "Debug",
+    "CMake Application.c_demo.executor": "Debug",
+    "CMake Application.c_dynamic_exec.executor": "Debug",
+    "CMake Application.cpp_demo.executor": "Run",
+    "CMake Application.my_clion_study.executor": "Run",
+    "CMake 应用程序.my_clion_study.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/becomebamboo/source/my-study/my-clion-study/c-chapter-study-taiwan/chapter-31",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/becomebamboo/source/my-study/my-clion-study/main.cpp",
+    "settings.editor.selected.configurable": "Cpp.EditorId",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/c-chapter-study-taiwan/chapter-31" />
@@ -390,7 +409,7 @@
       <workItem from="1758606311555" duration="20000" />
       <workItem from="1760072540771" duration="8688000" />
       <workItem from="1760441400083" duration="20000" />
-      <workItem from="1760523817449" duration="4082000" />
+      <workItem from="1760523817449" duration="14007000" />
     </task>
     <servers />
   </component>

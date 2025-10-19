@@ -14,6 +14,7 @@
 #include <_inttypes.h>
 #include <stdio.h>
 
+
 // 函数声明
 int max10(int n[10]);
 int avg10(int n[10]);

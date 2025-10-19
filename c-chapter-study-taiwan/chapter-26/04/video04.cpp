@@ -15,6 +15,14 @@
 #include <stdio.h>
 
 int main() {
+    const char *strB = "test";
+    printf("%s\n", strB);  // test
+    printf("%c\n", *strB); // t
+
+    strB = "Test";
+    printf("%s\n", strB); // Test
+    printf("%c\n", *strB); // T
+
 
     return 0;
 }

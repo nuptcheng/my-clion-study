@@ -2,7 +2,7 @@
  * @file: video01.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 28 - 01 ｜ 指標的陣列
  *       [1]
  *       [2]
  *       [3]

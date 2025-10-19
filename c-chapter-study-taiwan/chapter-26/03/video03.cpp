@@ -15,6 +15,12 @@
 #include <stdio.h>
 
 int main() {
+    int a = 3;
+    const int b = 5;
 
+    a = 4;
+    int *c = &b;
+    *c = 6;
+    printf("%d\n", b);
     return 0;
 }

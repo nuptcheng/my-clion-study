@@ -2,7 +2,7 @@
  * @file: video10.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 28 - 10 ｜ 輸入不定個數字串的優化
  *       [1]
  *       [2]
  *       [3]

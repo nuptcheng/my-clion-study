@@ -2,7 +2,7 @@
  * @file: video08.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 28 - 08 ｜ 可修改內容的多個字串
  *       [1]
  *       [2]
  *       [3]

@@ -2,7 +2,7 @@
  * @file: video04.cpp
  * @version: 1.0.0
  *
- * @brief:
+ * @brief: 28 - 04 ｜ 在函式間傳遞二維陣列
  *       [1]
  *       [2]
  *       [3]

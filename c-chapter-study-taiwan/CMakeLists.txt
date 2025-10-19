@@ -133,12 +133,25 @@ add_executable(c_chapter_01
         #                chapter-25/07/video07.cpp
         #
         #        第26章
-        #        chapter-26/01/video01.cpp
-        #        chapter-26/02/video02.cpp
-        #        chapter-26/03/video03.cpp
-        #        chapter-26/04/video04.cpp
-        #        chapter-26/05/video05.cpp
-        #        chapter-26/06/video06.cpp
+        #                chapter-26/01/video01.cpp
+        #                chapter-26/02/video02.cpp
+        #                chapter-26/03/video03.cpp
+        #                chapter-26/04/video04.cpp
+        #                chapter-26/05/video05.cpp
+        #                chapter-26/06/video06.cpp
+        #        第27章（尚未录制）
+        #                chapter-27/01/video01.cpp
+        #        第28章
+                        chapter-28/01/video01.cpp
+        #                chapter-28/02/video02.cpp
+        #                chapter-28/03/video03.cpp
+        #                chapter-28/04/video04.cpp
+        #                chapter-28/05/video05.cpp
+        #                chapter-28/06/video06.cpp
+        #                chapter-28/07/video07.cpp
+        #                chapter-28/08/video08.cpp
+        #                chapter-28/09/video09.cpp
+        #                chapter-28/10/video10.cpp
 
 )
 
